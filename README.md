@@ -6,3 +6,4 @@
 #### 手动部署的话下载文件后直接终端 Python3 app.py 即可运行，守护程序自行配置
 #### 安装后访问 ip:8080 打开登录面板，默认没有安装frps自行选择对应版本进行安装即可
 #### 客户端使用 https://github.com/atanzhen/frpc-web 项目进行安装即可，两个项目是相互的搭配使用即可
+#### 配套 frpc 桌面客户端：- [MoonProxy](https://github.com/MoonProxyHQ/moonproxy-desktop) — 跨平台 frpc 桌面客户端（Tauri v2 + Vue 3），面向非技术用户，开箱即用
